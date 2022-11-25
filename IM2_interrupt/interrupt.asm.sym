@@ -1,6 +1,0 @@
-_vid_ctc_0                      = $0000 ; addr, public, , , interrupt_vectors, interrupt.asm:6
-_vid_ctc_1                      = $0002 ; addr, public, , , interrupt_vectors, interrupt.asm:12
-_vid_ctc_2                      = $0004 ; addr, public, , , interrupt_vectors, interrupt.asm:19
-_vid_ctc_3                      = $0006 ; addr, public, , , interrupt_vectors, interrupt.asm:26
-_vid_pio_0_a                    = $0008 ; addr, public, , , interrupt_vectors, interrupt.asm:32
-_vid_pio_0_b                    = $000A ; addr, public, , , interrupt_vectors, interrupt.asm:39
