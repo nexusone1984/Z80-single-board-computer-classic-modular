@@ -1,0 +1,3 @@
+no_mult                         = $0011 ; addr, local, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_printc.asm:28
+mult_y                          = $000C ; addr, local, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_printc.asm:24
+term_01_output_char_oterm_msg_printc = $0000 ; addr, public, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_printc.asm:6

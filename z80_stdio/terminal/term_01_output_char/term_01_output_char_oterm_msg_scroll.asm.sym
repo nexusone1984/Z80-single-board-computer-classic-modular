@@ -1,0 +1,5 @@
+_scroll_count                   = $0000 ; addr, local, , , bss_user, terminal/term_01_output_char/term_01_output_char_oterm_msg_scroll.asm:74
+scroll_start                    = $0004 ; addr, local, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_scroll.asm:28
+fill_space                      = $001D ; addr, local, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_scroll.asm:39
+send_buffer                     = $0030 ; addr, local, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_scroll.asm:50
+term_01_output_char_oterm_msg_scroll = $0000 ; addr, public, , , code_driver_terminal_output, terminal/term_01_output_char/term_01_output_char_oterm_msg_scroll.asm:6
