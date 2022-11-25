@@ -1,0 +1,8 @@
+l_z80_pio_write_bit_00102       = $0014 ; addr, local, , , code_compiler, z80_pio.c:298
+l_z80_pio_write_bit_00104       = $0043 ; addr, local, , , code_compiler, z80_pio.c:328
+l_z80_pio_write_bit_00106       = $0060 ; addr, local, , , code_compiler, z80_pio.c:347
+l_z80_pio_read_bit_00102        = $0077 ; addr, local, , , code_compiler, z80_pio.c:365
+l_z80_pio_read_bit_00104        = $0093 ; addr, local, , , code_compiler, z80_pio.c:384
+_Bit_mask                       = $0000 ; addr, public, , , data_compiler, z80_pio.c:389
+_z80_pio_write_bit              = $0000 ; addr, public, , , code_compiler, z80_pio.c:288
+_z80_pio_read_bit               = $0064 ; addr, public, , , code_compiler, z80_pio.c:356
